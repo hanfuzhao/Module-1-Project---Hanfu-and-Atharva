@@ -136,7 +136,7 @@ The dataset `names_all_years.csv` is included in this repository. If you need to
 
 ## Deliverables
 
-1. **Public Communication**: [Blog Post](blog_post.md) - Engaging narrative for general audience
+1. **Public Communication**: https://hanfuzhao.github.io/Module-1-Project---Hanfu-and-Atharva/ - Engaging narrative for general audience
 2. **GitHub Repository**: This repository with complete analysis code
 3. **Presentation**: 8-minute presentation summarizing key findings
 
