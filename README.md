@@ -49,16 +49,6 @@ The analysis is based on the comprehensive US Baby Names dataset, which contains
 - **Modern Period (≥2000)**: Emma, Liam, Olivia, Noah
 - Shift toward shorter, more modern-sounding names
 
-## Repository Structure
-
-```
-├── README.md                    # This file
-├── name_analysis.ipynb         # Main analysis notebook
-├── analyze_names.py            # Python analysis script
-├── names_all_years.csv         # Raw dataset
-├── blog_post.md               # Blog post for public communication
-└── requirements.txt           # Python dependencies
-```
 
 ## How to Reproduce the Analysis
 
