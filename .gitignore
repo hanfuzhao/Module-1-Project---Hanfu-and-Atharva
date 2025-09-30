@@ -1,0 +1,36 @@
+# --- OS / Editors ---
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# --- Python / Env ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.build/
+dist/
+build/
+pip-wheel-metadata/
+venv/
+.venv/
+env/
+ENV/
+*.env
+*.venv
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# --- Logs / Cache ---
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
